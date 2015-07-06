@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  CarFile_id: 
+  entrance: 2015-07-06
+  details: MyString
+
+two:
+  CarFile_id: 
+  entrance: 2015-07-06
+  details: MyString
