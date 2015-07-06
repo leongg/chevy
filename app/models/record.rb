@@ -1,3 +1,3 @@
 class Record < ActiveRecord::Base
-  belongs_to :CarFile
+  belongs_to :car_file
 end
