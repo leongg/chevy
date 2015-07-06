@@ -51,7 +51,7 @@ group :development, :test do
   gem 'capistrano'
   gem 'capistrano-bundler'
   gem 'capistrano-rails'
-  gem 'capistrano-rvm', github: 'capistrano/rvm'
+  gem 'capistrano-rvm'
   gem 'capistrano-ssh-doctor'
 
 end
