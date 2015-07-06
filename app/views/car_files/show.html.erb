@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Office:</strong>
+  <%= @car_file.office %>
+</p>
+
+<p>
+  <strong>Car:</strong>
+  <%= @car_file.car %>
+</p>
+
+<%= link_to 'Edit', edit_car_file_path(@car_file) %> |
+<%= link_to 'Back', car_files_path %>
