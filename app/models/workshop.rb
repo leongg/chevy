@@ -1,3 +1,3 @@
 class Workshop < ActiveRecord::Base
-	has_many :office
+	has_many :offices
 end
